@@ -1,2 +1,2 @@
 # Calculator
-![alt text](http://url/to/calc.PNG)
+![alt](http://url/to/calc.PNG)
